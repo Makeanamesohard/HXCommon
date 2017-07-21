@@ -1,0 +1,6 @@
+framework module HXCommon {
+  umbrella header "HXCommon.h"
+
+  export *
+  module * { export * }
+}
