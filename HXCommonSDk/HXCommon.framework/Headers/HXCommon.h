@@ -12,7 +12,7 @@
 #import <HXCommon/NSData+AES128.h>
 #import <HXCommon/NSData+Base64.h>
 #import <HXCommon/NSData+HX.h>
-#import <HXCommon/NSDate.h>
+#import <HXCommon/NSDate+HX.h>
 #import <HXCommon/NSDictionary+HX.h>
 #import <HXCommon/NSString+HX.h>
 #import <HXCommon/HXUserCache.h>
