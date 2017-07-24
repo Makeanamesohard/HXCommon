@@ -1,6 +1,6 @@
 
 
-#import "NSDate+HX.h"
+
 #import <Foundation/Foundation.h>
 
 @interface NSDictionary (HX)

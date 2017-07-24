@@ -1,8 +1,5 @@
 
-#import "HXCache.h"
-#import "HXPath.h"
-#import "NSString+HX.h"
-#import "NSDictionary+HX.h"
+#import <Foundation/Foundation.h>
 
 #define UID @"userid"
 

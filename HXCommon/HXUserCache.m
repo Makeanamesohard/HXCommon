@@ -6,7 +6,10 @@
 //  Created by zhuzhi on 13-7-22.
 //  Copyright (c) 2013年 HT. All rights reserved.
 //
-
+#import "HXCache.h"
+#import "HXPath.h"
+#import "NSString+HX.h"
+#import "NSDictionary+HX.h"
 #import "HXUserCache.h"
 
 

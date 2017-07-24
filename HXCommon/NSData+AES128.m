@@ -1,6 +1,6 @@
 
 #import "NSData+AES128.h"
-
+#import <CommonCrypto/CommonCryptor.h>
 @implementation NSData (AES128)
 - (NSData *)AES128EncryptWithKey:(NSString *)key {
 	// 'key' should be 128 bytes for AES128, will be null-padded otherwise
